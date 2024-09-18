@@ -1,4 +1,4 @@
-- This project is about online food ordering system.
+- This project is about digital food ordering system.
 
 Project setup:
 
